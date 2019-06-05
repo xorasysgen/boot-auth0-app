@@ -1,5 +1,5 @@
 # CREDIT
-## All credit goes to -> Bruno Krebs -> https://dzone.com/users/1061121/brunoskrebs.html
+* All credit goes to -> Bruno Krebs -> https://dzone.com/users/1061121/brunoskrebs.html
 # Securing RESTful APIs with JWT Authentication & Authorization With Spring Bootsecurity APIs
 Application shows how to configure security module in Restful api with
 SpringBoot and secure it using Spring Security via JSON Web Tokens.
